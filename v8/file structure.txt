@@ -1,0 +1,3 @@
+routes are nothing but code of app divided into different files
+views are those files which are shown in the browser
+models are those files which defines our components structure
